@@ -2,8 +2,8 @@
 
 My personal solutions of https://www.hackerrank.com/ in Swift
 
-- [Warmup](#Warmup)
-- [Data Structures](#Data Structures)
+- [Warmup](#warmup)
+- [Data Structures](#data structures)
 
 ### Warmup
 
