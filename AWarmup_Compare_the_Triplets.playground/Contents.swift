@@ -1,5 +1,3 @@
-//: Playground - noun: a place where people can play
-
 import Foundation
 
 let A = [1,2,3]
