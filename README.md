@@ -3,7 +3,7 @@
 My personal solutions of https://www.hackerrank.com/ in Swift
 
 - [Warmup](#warmup)
-- [Data Structures](#data structures)
+- [Data Structures](#data-structures)
 
 ### Warmup
 
