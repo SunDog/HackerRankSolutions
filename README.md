@@ -13,6 +13,7 @@ Challenges | Solution
 [Compare the Triplets] (https://www.hackerrank.com/challenges/compare-the-triplets) | [30th January 2017 ] (/AWarmup_Compare_the_Triplets.playground)
 [A Very Big Sum] (https://www.hackerrank.com/challenges/a-very-big-sum) | [30th January 2017 ] (/AWarmup_A_Very_Big_Sum.playground)
 [Diagonal Difference ] (https://www.hackerrank.com/challenges/diagonal-difference) | [31th January 2017 ] (/AWarmup_Diagonal_Difference.playground)
+[Plus Minus ] (https://www.hackerrank.com/challenges/plus-minus) | [31th January 2017 ] (/AWarmup_Plus_Minus.playground)
 
 
 ### Data Structures
